@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BelajarGit</string>
+    <string-array name="JenisKelamin">
+        <item>"Laki-Laki</item>
+        <item>"Perempuan</item>
+        <item>"Abnormal"</item>
+    </string-array>
+
+    <string-array name="daftarnegara">
+        <item>Indonesia</item>
+        <item>Jepang</item>
+        <item>Filiphina</item>
+        <item>Thailand</item>
+        <item>China</item>
+    </string-array>
 </resources>

@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         txtName = findViewById(R.id.txt_Name);
-        txtName.setText("Mobile Apps Wikwok");
+        txtName.setText("Welcome :)");
     }
 }
